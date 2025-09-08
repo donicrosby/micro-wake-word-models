@@ -1,6 +1,6 @@
 {
   "type": "micro",
-  "wake_word": "hey_rj",
+  "wake_word": "Hey RJ",
   "author": "Doni Crosby",
   "website": "https://donicrosby.com",
   "model": "hey_rj.tflite",
